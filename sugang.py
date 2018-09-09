@@ -67,10 +67,3 @@ def findsub():
 
 hihihihihihihihdfjkdfjdf
 fjakjdlfjalkdjfalkfjaflk
-dfkajfla
-
-
-fdfafdfafqfdaf
-dfafdfq
-ffdfaf
-
