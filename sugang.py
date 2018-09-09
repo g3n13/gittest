@@ -65,8 +65,4 @@ def findsub():
 	select.select_by_value("32")
 	browser.find_element_by_css_selector(".mbtn.submit.ui-button.ui-widget.ui-state-default.ui-corner-all").click()
 
-def macro():
-	browser.find_element_by_`
 
-login()
-findsub()
